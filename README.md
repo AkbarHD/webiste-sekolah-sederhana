@@ -27,8 +27,3 @@ Untuk fiturnya masih sangas sederhana, contohnya sebagai berikut
 7. Manajemen Akun
 8. Buku Tamu**
 9. dan lain lain
-
-
-### Tentang Saya
-
-Fakhrul Fanani Nugroho siswa Kelas 12 Jurusan Teknik Komputer Informatika di SMK Negeri 1 Wanareja. https://www.instagram.com/nugrohospace/
